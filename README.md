@@ -41,6 +41,10 @@ RabbitMQ is widely used for:
 
 ---
 
+```bash
+   [mvn clean install](https://github.com/IT21826740/spring-boot-rabbitmq-producer.git)
+   ```
+
 ## 🚀 Project Setup  
 
 ### Prerequisites:  
