@@ -10,8 +10,7 @@ This project is a **Spring Boot** application that acts as a **RabbitMQ consumer
 - [How It Works](#how-it-works)  
 - [Configuration](#configuration)  
 - [Technologies Used](#technologies-used)  
-- [License](#license)  
-
+  
 ---
 
 ## 🐇 Introduction to RabbitMQ  
@@ -109,8 +108,5 @@ spring.rabbitmq.queue.name=my-queue
 - **Docker (Optional for running RabbitMQ)**  
 
 ---
-
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
+ 
 
